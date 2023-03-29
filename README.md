@@ -1,5 +1,7 @@
 # anino_exam
-This repository covers my deliverables for Anino Inc exam (2023)
+This repository covers my deliverables for Anino Inc exam (2023). 
+Exam started at March 28, 2023, 2:00pm.
+No code from personal library used.
 
 
 - <b>Unity version used</b>
